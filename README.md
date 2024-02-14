@@ -1,1 +1,1 @@
-0x05-python-exceptions tasks 
+sql more queries task
